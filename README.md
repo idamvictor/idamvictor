@@ -1,7 +1,8 @@
-#👋 Hi, I'm Victor Idam
-###Frontend Developer | React & Next.js Specialist | Mobile & Full-Stack
+# 👋 Hi, I'm Victor Idam 
 
-##🎙️ Bio
+### Frontend Developer | React & Next.js Specialist | Mobile & Full-Stack
+
+## 🎙️ Bio
 "I turn complex problems into elegant digital solutions."
 
 As a First-Class Computer Science graduate and award-winning developer, I specialize in building high-performance applications that marry technical excellence with business impact. My journey spans:
