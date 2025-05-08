@@ -5,7 +5,7 @@
 ## 🎙️ Bio
 "I turn complex problems into elegant digital solutions."
 
-As a First-Class Computer Science graduate and award-winning developer, I specialize in building high-performance applications that marry technical excellence with business impact. My journey spans:
+As a **First-Class Computer Science graduate** and award-winning developer, I specialize in building high-performance applications that marry technical excellence with business impact. My journey spans:
 
 🔸 5+ production-ready applications
 🔸 40%+ performance optimizations across multiple projects
